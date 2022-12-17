@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 뱀 밥줘야 하는데...
+- 뱀 밥줘야 하는데... 🤔 🤔 
 ![snake gif](https://github.com/hyunjunhwang1994/hyunjunhwang1994/blob/output/github-contribution-grid-snake.svg)
 
 
