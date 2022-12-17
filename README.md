@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![snake gif](https://github.com/hyunjunhwang1994/hyunjunhwang1994/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **hyunjunhwang1994/hyunjunhwang1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
