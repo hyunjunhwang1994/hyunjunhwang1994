@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjunhwang1994&show_icons=true&theme=radical)
 
-🤔 
+
 ![snake gif](https://github.com/hyunjunhwang1994/hyunjunhwang1994/blob/output/github-contribution-grid-snake.svg)
 
 
