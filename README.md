@@ -7,6 +7,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjunhwang1994&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjunhwang1994&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![snake gif](https://github.com/hyunjunhwang1994/hyunjunhwang1994/blob/output/github-contribution-grid-snake.svg)
 
