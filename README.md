@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hello%20world&fontSize=90)
 
 # Introduce
-새로운 기술을 배우는 것을 좋아하며, 무엇이든 구현할 수 있는 풀스택 개발자 황현준입니다. <br/>
-원활한 협업 및 팀 분위기를 중요시하며, 주어진 문제 상황을 해결하는 것을 좋아합니다. <br/>
-R&D 경험을 문서화하여 기록하는 것을 잘합니다.
+안녕하세요! 웹 개발자 황현준입니다.<br/>
+
+
+
+
 
 <br>
 
