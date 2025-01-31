@@ -2,8 +2,6 @@
 안녕하세요! 풀스택 개발자 황현준입니다.<br/>
 주력 언어는 Javascript, Java이며 Node.js(Express), React, Spring Framework를 많이 다뤄봤습니다.<br/>
 
-[기술 블로그](https://hyunjun.kr)
-
 
 
 <br>
